@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "business": {
+    "name": "Menssäkrad - Ny webbplats",
+    "tagline": "Sveriges ledande leverantör av ekologiska mensskydd med prenumeration för privatpersoner och kompletta lösningar för skolor och arbetsplatser.",
+    "tone": [
+      "Varm och inkluderande",
+      "Saklig men omtänksam",
+      "Hållbarhetsfokuserad",
+      "Normaliserande kring mens",
+      "Professionell mot B2B utan att bli stel"
+    ],
+    "audience": "Primärt menstruerande personer i Sverige (tonår till vuxen) samt beslutsfattare i skolor/arbetsplatser (HR, rektorer, elevhälsa, facility managers) som söker hållbara, bekväma mensskydd med enkel leverans."
+  },
+  "theme": {
+    "primary": "oklch(0.55 0.18 350)",
+    "secondary": "oklch(0.65 0.14 340)",
+    "accent": "oklch(0.70 0.12 0)",
+    "font": "system",
+    "styleKeywords": []
+  },
+  "pages": [],
+  "constraints": {
+    "noNewDependencies": true,
+    "originalPrompt": "=== BYGG NY SAJT BASERAD PÅ AUDIT ===\nReferenssida: https://www.menssakrad.se/\nBehåll varumärkeskänslan (färger, logoplacering, tonalitet) men åtgärda alla brister och förbättra UX, prestanda och tillgänglighet.\nFöretag: Menssäkrad\nDomän: www.menssakrad.se\n\nAudit-poäng att lyfta:\n- SEO: 72/100\n- Prestanda: 70/100\n- UX: 74/100\n- Tillgänglighet: 63/100\n- Säkerhet: 78/100\n- Mobil: 76/100\n- Innehåll: 77/100\n- Teknisk SEO: 68/100\n\nProblem att lösa omedelbart:\n- Meta-data verkar inte fullt optimerade:"
+  }
+}
